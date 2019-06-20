@@ -1,4 +1,4 @@
-# Pytorch (CUDA) implementation on MNIST dataset
+# CNN implementation in Pytorch (CUDA)
 
 ### Google Colab Notbook - https://colab.research.google.com/drive/108eeOfPuQr_9Grmnto45L1giqIth5Hmd
 
